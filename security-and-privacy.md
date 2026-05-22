@@ -1,25 +1,19 @@
 # Security and Privacy
 
-## Public posture
+## Reader guidance
 
-The public site intentionally exposes public resume, public links, and curated project copy only. Private source, unpublished project screens, private analytics configuration, and operational credentials stay out of the docs repo.
+- The site is designed for public portfolio review and professional contact.
+- Use Discussions for guide feedback and public project questions.
+- Do not post personal contact details or unrelated sensitive information in Discussions.
 
-## Publishing controls
+## Discussions
 
-- Public docs are maintained in `docs-public/` in the private source repository.
-- The publish workflow uses an allowlist-only sync.
-- The workflow publishes Markdown documentation only.
-- The workflow runs a leak check before publishing.
-- Source folders, package files, lockfiles, env files, config files, API routes, database files, deployment files, tests, fixtures, and generated artifacts are never mirrored into the public docs repository.
+- Keep questions focused on product access, workflow guidance, stale docs, and guide improvements.
+- Do not post passwords, credentials, payment details, personal records, health information, portfolio holdings, recordings, or customer data.
+- For account-specific or business-specific help, use the contact or support path provided by the website.
 
-## Do not publish
+## Responsible use
 
-- Secrets, tokens, keys, provider credentials, or environment variable values.
-- Internal architecture diagrams that expose private implementation or infrastructure.
-- API implementation details, database schema, auth/session internals, or deployment runbooks.
-- Customer, client, patient, user, recording, booking, portfolio, or operational data.
-- Private prompts, proprietary algorithms, hidden routes, or unreleased business logic.
-
-## Reporting concerns
-
-If a public doc appears to expose private or sensitive information, treat it as a publishing issue and remove the content from the public docs repository while the private source docs are corrected.
+- Verify time-sensitive, medical, financial, booking, or business-critical information through the appropriate official channel.
+- Treat exported files, screenshots, reports, recordings, and account pages with care before sharing them.
+- Report broken links, confusing instructions, and stale screenshots in Discussions.

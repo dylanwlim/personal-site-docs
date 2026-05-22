@@ -2,15 +2,15 @@
 
 ## Current direction
 
-Active private portfolio repository with public production deployment. Public docs explain the site without mirroring source.
+Dylan W. Lim Portfolio Site is active and the guides track user-visible behavior, access paths, and product status.
 
 ## Near-term priorities
 
-- Keep the portfolio concise, proof-led, and public-safe.
-- Keep project summaries aligned with live product state.
-- Maintain resume synchronization and metadata quality.
-- Avoid adding private project screenshots or implementation detail to public surfaces.
+- Keep selected-work copy concise, proof-driven, and current.
+- Keep resume and public project links accurate.
+- Continue improving accessibility, metadata, and performance checks.
+- Keep contact paths simple and reliable.
 
-## Public roadmap rule
+## Feedback
 
-Roadmap items here are product-facing and may change. Private implementation plans, provider setup, infrastructure work, internal prompts, customer-specific commitments, and unreleased proprietary logic stay in the private repository.
+Use [Discussions](https://github.com/dylanwlim/personal-site-docs/discussions) to ask questions, report stale guide steps, or suggest roadmap clarifications.

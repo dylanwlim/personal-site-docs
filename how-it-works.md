@@ -1,24 +1,21 @@
 # How It Works
 
-## High-level product structure
+## Product structure
 
-- A single public homepage with inline selected-work detail instead of separate case-study pages.
-- A typed content layer drives public copy, project summaries, media, links, and resume metadata.
-- Global metadata, robots, sitemap, social preview images, analytics gating, and security headers are owned by the app.
+- A single homepage presents profile, timeline, selected work, media, resume, and contact sections.
+- A typed content layer drives copy, project summaries, media, links, and resume metadata.
+- Metadata, robots, sitemap, social preview images, analytics gating, and security headers are owned by the app.
 - Focused tests cover navigation, metadata, accessibility, links, observability, and security headers.
 
-## Technology at a safe public level
+## Technology
 
 - Next.js App Router, React, TypeScript, and Tailwind CSS.
-- Vercel-hosted production build from main.
-- Vercel Web Analytics and Speed Insights are gated to production.
-- Playwright and Lighthouse CI cover focused quality checks.
+- Vercel-hosted production build.
+- Vercel Web Analytics and Speed Insights for deployed usage measurement.
+- Playwright and Lighthouse CI for focused quality checks.
 
-## What is intentionally not documented here
+## Update flow
 
-- Source-code layout beyond broad product areas.
-- API implementation details.
-- Database schemas or migrations.
-- Auth, session, token, or authorization internals.
-- Deployment secrets, provider credentials, or private infrastructure.
-- Hidden routes, internal prompts, proprietary algorithms, or client-sensitive data.
+- Product documentation changes are published to this guide repository automatically.
+- A daily sync checks for guide updates after product work lands.
+- Manual updates can also be published when a guide needs an immediate correction.

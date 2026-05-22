@@ -2,9 +2,15 @@
 
 Proof-driven portfolio site for finance software, healthcare access, local-first tools, and operations work.
 
-The portfolio site presents Dylan W. Lim's selected work, resume, project proof, and contact path in a compact public web experience. The site is intentionally content-led: it focuses on work examples, public project context, and a clean path to contact.
+The portfolio site presents Dylan W. Lim's selected work, resume, project proof, and contact path in a compact web experience. The site is content-led: it focuses on work examples, project context, and a clean path to contact.
 
-## Documentation
+## Start here
+
+- Website: [https://dylanwlim.com](https://dylanwlim.com)
+- Discussions: [ask questions and suggest guide improvements](https://github.com/dylanwlim/personal-site-docs/discussions)
+- Welcome thread: [https://github.com/dylanwlim/personal-site-docs/discussions/1](https://github.com/dylanwlim/personal-site-docs/discussions/1)
+
+## Guides
 
 - [Overview](overview.md)
 - [Product guide](product-guide.md)
@@ -13,7 +19,8 @@ The portfolio site presents Dylan W. Lim's selected work, resume, project proof,
 - [Roadmap](roadmap.md)
 - [Changelog](changelog.md)
 - [Security and privacy](security-and-privacy.md)
+- [Access and updates](setup.md)
 
-## Public documentation boundary
+## Updates
 
-This repository contains product-facing documentation only. It does not mirror source code, private implementation details, deployment configuration, secrets, API internals, database schemas, auth/session internals, private prompts, client-sensitive details, or proprietary implementation logic.
+These guides refresh after product documentation updates and are checked on a daily sync. If something looks stale, open a Discussion with the page name and the step that needs attention.
