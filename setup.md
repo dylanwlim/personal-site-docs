@@ -1,21 +1,23 @@
-# Access and Updates
+# Access And Updates
 
-## Website
+## Public Entry Points
 
-Open [https://dylanwlim.com](https://dylanwlim.com) for the current product or guide entry point.
+- Public site: [https://dylanwlim.com](https://dylanwlim.com)
+- Public discussions: [https://github.com/dylanwlim/personal-site-docs/discussions](https://github.com/dylanwlim/personal-site-docs/discussions)
 
-## Discussions
+## Current Use
 
-Use [Discussions](https://github.com/dylanwlim/personal-site-docs/discussions) for:
+1. Open the homepage and scan the profile, Now, and Previously sections.
+2. Use Selected Work to move through the project examples.
+3. Use Contact, Email, LinkedIn, GitHub, or Resume when ready to follow up.
 
-- access questions
-- product workflow questions
-- guide corrections
-- stale links or outdated screenshots
-- suggestions for clearer examples
+## How These Docs Stay Current
 
-Start with the welcome thread: [https://github.com/dylanwlim/personal-site-docs/discussions/1](https://github.com/dylanwlim/personal-site-docs/discussions/1).
+- Source guide files live under `docs-public/`.
+- The publish workflow runs after main-branch updates, by manual dispatch, and once per day.
+- The workflow captures a fresh homepage screenshot before publishing.
+- The workflow publishes only the approved guide files and homepage screenshot asset.
 
-## Update cadence
+## Feedback
 
-These guides are checked daily and refresh after product documentation updates. If product behavior changes before the guide catches up, open a Discussion with the page name and the expected correction.
+Open a Discussion with the guide page name, the unclear section, and the public behavior you expected the guide to describe.

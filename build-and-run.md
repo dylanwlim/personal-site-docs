@@ -1,20 +1,20 @@
-# Build and Run
+# Access Guide
 
-## Normal access
+## Open The Public Surface
 
-Most readers should start with the website: [https://dylanwlim.com](https://dylanwlim.com). Use the guides in this repository for workflow orientation, access notes, and release status.
+- Public site: [https://dylanwlim.com](https://dylanwlim.com)
+- Discussions: [https://github.com/dylanwlim/personal-site-docs/discussions](https://github.com/dylanwlim/personal-site-docs/discussions)
 
-## Local development orientation
+## Use The Current Flow
 
-- Use Node.js 24.x and npm.
-- Install dependencies with npm install.
-- Run npm run dev for local development.
-- Run npm run build, npm run lint, npm run typecheck, npm run audit:deps, and targeted Playwright checks before release work.
+1. Open the homepage and scan the profile, Now, and Previously sections.
+2. Use Selected Work to move through the project examples.
+3. Use Contact, Email, LinkedIn, GitHub, or Resume when ready to follow up.
 
-## Validation
+## Current Availability
 
-Before release work, run the validation commands that match the changed surface. For guide-only updates, verify links, headings, and product wording before publishing.
+The public homepage is live with profile summary, Now/Previously rows, Selected Work, Process, Contact, social links, resume download, and photo rail interactions.
 
-## Documentation updates
+## Automated Public Docs
 
-Guides are published automatically after documentation changes and checked once per day. Use [Discussions](https://github.com/dylanwlim/personal-site-docs/discussions) for stale pages, access questions, or suggested clarifications.
+The publish workflow runs on main-branch updates, manual dispatch, and a daily schedule. It refreshes `assets/homepage.png`, validates the public guide set, and publishes the files to the public docs repository.

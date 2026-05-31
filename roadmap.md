@@ -1,16 +1,13 @@
 # Roadmap
 
-## Current direction
+This roadmap covers public-facing guide and user-surface work only.
 
-Dylan W. Lim Portfolio Site is active and the guides track user-visible behavior, access paths, and product status.
+## Current Priorities
 
-## Near-term priorities
+- Keep public docs aligned with visible homepage sections and selected-work entries.
+- Update guide text when contact links, resume handling, or project entries change.
+- Keep homepage screenshots current through the docs publish workflow.
 
-- Keep selected-work copy concise, proof-driven, and current.
-- Keep resume and public project links accurate.
-- Continue improving accessibility, metadata, and performance checks.
-- Keep contact paths simple and reliable.
+## Documentation Rule
 
-## Feedback
-
-Use [Discussions](https://github.com/dylanwlim/personal-site-docs/discussions) to ask questions, report stale guide steps, or suggest roadmap clarifications.
+When a user-visible public flow changes, update the matching guide page and changelog entry in the same source-repo pass. The daily workflow will still refresh the homepage screenshot, but guide text should describe only behavior that is actually available to public users.

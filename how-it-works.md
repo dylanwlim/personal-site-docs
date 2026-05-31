@@ -1,21 +1,19 @@
 # How It Works
 
-## Product structure
+Dylan W. Lim Portfolio Site is documented here from the public user's point of view.
 
-- A single homepage presents profile, timeline, selected work, media, resume, and contact sections.
-- A typed content layer drives copy, project summaries, media, links, and resume metadata.
-- Metadata, robots, sitemap, social preview images, analytics gating, and security headers are owned by the app.
-- Focused tests cover navigation, metadata, accessibility, links, observability, and security headers.
+## Single-page portfolio
 
-## Technology
+The public site is a compact homepage-first portfolio with navigation anchors.
 
-- Next.js App Router, React, TypeScript, and Tailwind CSS.
-- Vercel-hosted production build.
-- Vercel Web Analytics and Speed Insights for deployed usage measurement.
-- Playwright and Lighthouse CI for focused quality checks.
+## Project proof
 
-## Update flow
+Selected Work cards summarize project context and provide a path into specific examples.
 
-- Product documentation changes are published to this guide repository automatically.
-- A daily sync checks for guide updates after product work lands.
-- Manual updates can also be published when a guide needs an immediate correction.
+## Contact model
+
+The visible contact section and resume link are the primary follow-up paths.
+
+## Publishing Model
+
+The public guide files live under `docs-public/` in the source repository. The publishing workflow captures the current homepage screenshot, validates the public docs allowlist, and mirrors the result into `dylanwlim/personal-site-docs`.

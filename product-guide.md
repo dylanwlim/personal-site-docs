@@ -1,22 +1,24 @@
 # Product Guide
 
-## User experience
+Use this page as the practical user manual for the public surface that is available now.
 
-- Open the homepage and scan the profile, current work, prior experience, selected work, photo rail, resume, and contact entry.
-- Use the Selected Work section to inspect problems addressed by Alpinix, The French Mani, PharmaPath, Transcribble, and the portfolio construction tool.
-- Open live project links where available.
-- Use the footer contact dialog, LinkedIn, GitHub, and resume links.
+## Main Flow
 
-## Main workflows
+1. Open the homepage and scan the profile, Now, and Previously sections.
+2. Use Selected Work to move through the project examples.
+3. Use Contact, Email, LinkedIn, GitHub, or Resume when ready to follow up.
 
-- Portfolio review: scan selected work by problem, then open the live project or current status note.
-- Resume review: open the resume PDF from the footer.
-- Contact: use the prepared email path or professional profile links.
-- Project follow-up: use the linked guides and discussion spaces for product-specific questions.
+## Current Actions
 
-## Product principles
+| Area | Current public flow |
+| --- | --- |
+| Read the profile | Review the public finance and software builder summary plus current and previous work rows. |
+| Explore selected work | Open project entries for PharmaPath, TheFrenchMani, Alpinix, Transcribble, and Portfolio Construction Lab. |
+| Use contact paths | Use Email, LinkedIn, GitHub, Resume, and visible social/profile links. |
+| Download the resume | Use the public Resume PDF link from the homepage. |
 
-- Keep the interface direct, explicit, and honest about what the product can prove.
-- Show unavailable or limited states clearly instead of hiding important constraints.
-- Keep guide claims tied to behavior that exists in the product.
-- Use Discussions for access questions, confusing steps, and guide feedback.
+## Notes For Use
+
+- Single-page portfolio: The public site is a compact homepage-first portfolio with navigation anchors.
+- Project proof: Selected Work cards summarize project context and provide a path into specific examples.
+- Contact model: The visible contact section and resume link are the primary follow-up paths.

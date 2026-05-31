@@ -1,21 +1,22 @@
 # Overview
 
-## What Dylan W. Lim Portfolio Site does
+The portfolio site presents Dylan W. Lim, current and previous experience, selected work, process notes, contact paths, social links, and a downloadable resume.
 
-The portfolio site presents Dylan W. Lim's selected work, resume, project proof, and contact path in a compact web experience. The site is content-led: it focuses on work examples, project context, and a clean path to contact.
+## Public Surface
 
-## Who it is for
+The public homepage is live with profile summary, Now/Previously rows, Selected Work, Process, Contact, social links, resume download, and photo rail interactions.
 
-- Recruiters, collaborators, and partners reviewing selected work.
-- Visitors looking for current projects, resume links, and contact paths.
-- Reviewers checking project summaries and public proof links.
+## Current Public Actions
 
-## Access
+| Area | Current public flow |
+| --- | --- |
+| Read the profile | Review the public finance and software builder summary plus current and previous work rows. |
+| Explore selected work | Open project entries for PharmaPath, TheFrenchMani, Alpinix, Transcribble, and Portfolio Construction Lab. |
+| Use contact paths | Use Email, LinkedIn, GitHub, Resume, and visible social/profile links. |
+| Download the resume | Use the public Resume PDF link from the homepage. |
 
-- Website: [https://dylanwlim.com](https://dylanwlim.com)
-- Discussions: [https://github.com/dylanwlim/personal-site-docs/discussions](https://github.com/dylanwlim/personal-site-docs/discussions)
-- Welcome thread: [https://github.com/dylanwlim/personal-site-docs/discussions/1](https://github.com/dylanwlim/personal-site-docs/discussions/1)
+## Best First Step
 
-## Guide freshness
-
-These guides refresh after product documentation updates and are checked on a daily sync. Product behavior can move faster than written guides, so use Discussions to flag anything that looks out of date.
+1. Open the homepage and scan the profile, Now, and Previously sections.
+2. Use Selected Work to move through the project examples.
+3. Use Contact, Email, LinkedIn, GitHub, or Resume when ready to follow up.
